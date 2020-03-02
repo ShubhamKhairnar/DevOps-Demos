@@ -1,0 +1,20 @@
+commit a4777e2b383f37da016f26af334c7194ed8e1c2f
+Author: Shubham Khairnar <ShubhamK2@citiustech.com>
+Date:   Mon Mar 2 10:10:09 2020 +0530
+
+    Commit log file
+
+commit ba2125d8a020e8c0adfa13e7387ad3f8d169a402
+Author: Shubham Khairnar <ShubhamK2@citiustech.com>
+Date:   Mon Mar 2 09:58:07 2020 +0530
+
+    Demo CSS file
+
+commit accd0c6a125a3a06c865c6558f2c2cd44a1b3dd4
+Merge: 6289790 1b6eb87
+Author: Miztiik <miztiik@users.noreply.github.com>
+Date:   Sat Oct 26 08:15:29 2019 +0200
+
+    Merge pull request #2 from Megh05/master
+    
+    Approved Update to README.MD
